@@ -8,11 +8,11 @@ Designed for simplicity, responsiveness and daily workflow improvement.
 
 • Angular 17
 
-• Firestore Database (Real-Time)
+• Firestore Database 
 
 • HTML 
 
-• CSS (Custom Modern UI)
+• CSS 
 ## Firebase
 
 ![Login UI](https://raw.githubusercontent.com/nanibharath05/To-Do-List-Manager/main/Screenshot%202025-12-04%20101820.jpg)
@@ -20,4 +20,5 @@ Designed for simplicity, responsiveness and daily workflow improvement.
 ## Login 
 ![Login Page](https://raw.githubusercontent.com/nanibharath05/To-Do-List-Manager/main/Screenshot%202025-12-04%20090710.png)
 ## Task Management
+
 ![Task Dashboard](https://raw.githubusercontent.com/nanibharath05/To-Do-List-Manager/main/Screenshot%202025-12-04%20092447.png)
